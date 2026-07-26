@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/demo.png" width="100%" alt="Quant Machine Demo">
+  <img src="Quant/images/demo.png" width="100%" alt="Quant Machine Demo">
 </p>
 
 # Quant Machine 📈
