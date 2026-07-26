@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "<3.0,>=2.0"
+pandas = "<3.0,>=2.2"
+scikit-learn = "<2.0,>=1.5"
+yfinance = "<1.0,>=0.2.54"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
